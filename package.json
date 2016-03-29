@@ -1,5 +1,5 @@
 {
-  "name": "react-player",
+  "name": "kazuldur-react-player",
   "version": "0.5.6",
   "description": "A react component for playing a variety of URLs, including file paths, YouTube, SoundCloud and Vimeo",
   "main": "lib/ReactPlayer.js",
