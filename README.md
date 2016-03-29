@@ -1,3 +1,8 @@
+Changes in this fork
+====================
+
+This fork adds the "progressCallbackFrequency" prop.
+
 ReactPlayer
 ===========
 
@@ -80,6 +85,7 @@ Prop | Description
 `width` | Sets the width of the player
 `height` | Sets the height of the player
 `className` | Pass in a `className` to set on the top level element
+`progressCallbackFrequency` | How often `onProgress` callback should be called, in milliseconds (default: 1000ms)
 
 #### Callback props
 
